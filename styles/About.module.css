@@ -1,0 +1,20 @@
+.aboutContainer {
+    background-color: #121214;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 7vh;
+    width: 100%;
+    gap: 2vw;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.textAboutContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    text-align: justify;
+}

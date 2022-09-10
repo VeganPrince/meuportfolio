@@ -1,0 +1,31 @@
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8vh;
+    padding: 30px;
+}
+
+.contactText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactLinks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6vw;
+}
+
+.textSocialMedias {
+    color: rgba(255, 255, 255, .6);
+}
+
+.contactsGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
